@@ -1,0 +1,1 @@
+to run, insert the image.data file as a command line argument and run the main class
